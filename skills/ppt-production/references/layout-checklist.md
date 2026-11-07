@@ -1,22 +1,32 @@
-# Rendered-slide checklist
+# 渲染验收清单
 
-Read each image top to bottom and left to right.
+## 先确认检查的是当前结果
 
-- Text touching or crossing a border, a rule, or another block.
-- Words running past the shape's edge, or a last line holding one or two characters.
-- A block sitting high in a box that has unused space beneath it.
-- A table's bottom edge covering a caption or a summary bar.
-- Hollow boxes where a symbol was meant to be.
-- Unfilled placeholders, template sample text, or a stray guide frame left behind.
-- On the cover: colors that disagree with the rest of the deck, or leftover institutional headers that do not belong to this talk.
-- Page numbers missing, clipped, or outside the visible area.
-- Paragraph alignment drifting between sibling blocks on the same slide.
+- 确认编辑、保存、导出都成功；图片与待交付 PPTX 属于同一版。不能从旧图确认新修改。
+- 对用户指出的问题设置可观察的验收点，例如“报价方与金额均在卡片内”“四条图注同一格式”“页码在实际底色上可辨”。未达到就继续修复。
+- 修改页按足以读清正文的尺寸逐页打开，长标题、图注、金额和卡片末行必要时放大。缩略总览用于跨页检查，不能替代这些局部复核。
 
-Compare slides side by side for the title position, the header rule, and the footer. Consistency across pages is what separates a deck from a pile of pages.
+## 从上到下检查每页
 
-## 区域结构化检查
+- 标题、页眉线、区域标签：无压线或相互遮挡，模板示例和未完成标记已处理。
+- 图片与图注：同级图片处于共同显示区域，图注基线、字号、字重、颜色、对齐一致，标注没有在裁切时丢失。
+- 文字块：完整读到最后一行。检查自动换行、孤字、上下溢出、跑出底色、金额挤占标题，以及正文被后置背景盖住。
+- 区域间距：比较同级区块的水平和垂直间距；单独检查内部行距，避免“框外均匀、框内空洞”或“上空下挤”。
+- 页脚与页码：检查显示内容、位置、实际底色对比度和距画布边缘的余量。出现在对象列表中不等于能看清。
+- 内容主次：观众关心的成果、部件或结论是否最突出；来源是否抢占标题；整页共同说明是否重复。
+- 图片用途：证据缩略图允许保留原件小字；论证所需数值、标签及结论仍应清楚，必要时另列原生文字。不要因原件小字不可读而删除用户要展示的证据。
 
-- 每段文字、图片、表格和图注是否有明确所属区域；是否存在游离的小文本或说明。
-- 每个区域能否说清职责，区域关系是否支持整页主题/结论。
-- 标题、框、证据和局部结论是否整体协调；全页阅读顺序、对齐、留白、色彩和主次是否一致。
-- 是否误把素材拼盘当完整逻辑，或把全部区域平均套成同一种卡片。
+## 区域组合与跨页一致性
+
+- 每段文字、图片和图注都能归属一个区域，阅读顺序清楚；无游离说明或为了凑卡片而拆散的内容。
+- 检查同级表格、卡片、图注、标题和页码在各页的样式；目录条目与正文含义一致。
+- 封面与正文的配色、身份信息及模板残留逐项核对；不按正文网格机械重排封面。
+- 内容少时允许适度留白；若用户希望充实收尾，可提炼已有成果和简短方向，但不能增添未经确认的事实或进度。
+
+## 通过与未通过
+
+程序审计通过只能作为辅助信息。包围框在卡片内，不保证真实字形或换行也在卡片内；视觉上已经看见的缺陷不能被退出码 0 覆盖。
+
+逐条解释 overlap：例如“页码在深色底栏内、文字高对比且与正文无冲突”才可通过。图注压线、内容遮挡、字色对比不足不能沿用上一版的豁免结论。
+
+对普通小改，简要记录“改动页、问题、当前图上观察到的结果”即可；复杂或多轮返工可保存 QA 记录。没有打开、无法读图、或不是当前版本的页面，明确标为未检查。最终回复只陈述实际完成的检查范围。
