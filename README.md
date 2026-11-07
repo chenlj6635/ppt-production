@@ -32,6 +32,21 @@
 素材库是组件和结构范例的集合，不是要求所有项目照搬的完整模板。科研图片、姓名、原作者数据和结论不会自动成为新稿的事实。
 
 
+## 渲染与审计脚本
+
+
+- `scripts/render_deck.ps1`：一条命令导出 PDF 并栅格化成逐页 PNG。Windows 走 PowerPoint/WPS COM，装了 LibreOffice 可加 `-Engine soffice`。
+- `scripts/pptx_audit.py`：字号、字形和包围框审计，`--min-pt 20` 是默认下限。
+- `scripts/check_library.py`、`scripts/index_library.py`、`scripts/render_catalog.py`：素材库一致性检查、索引重建与图库渲染。
+
+```powershell
+pwsh -NoProfile -File skills/ppt-production/scripts/render_deck.ps1 -Pptx .\deck.pptx -Pages 3,8
+python skills/ppt-production/scripts/pptx_audit.py .\deck.pptx --min-pt 20
+```
+
+脚本退出码 0 只代表没发现明确违规，不等于视觉验收通过；交付前必须逐页读图。
+
+
 ## 安装和使用
 
 
