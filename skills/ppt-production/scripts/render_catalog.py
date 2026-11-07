@@ -39,8 +39,8 @@ def build(library):
     start = '''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>区域结构素材库</title><style>body{margin:0;font:16px/1.65 "Microsoft YaHei",sans-serif;background:#f3f4f6;color:#202635}header{padding:26px 4vw;background:#202635;color:white}h1{margin:0;font-size:28px}input{font:inherit;padding:12px;width:min(650px,90%)}main{padding:24px 4vw;display:grid;grid-template-columns:repeat(auto-fit,minmax(420px,1fr));gap:24px}article{background:white;padding:22px;border:1px solid #d8dde5;border-radius:8px}h2{font-size:21px;margin:0}img{width:100%;height:auto;border:1px solid #e5e7eb}.tags{color:#48617d;font-size:14px}.note{background:#faf6ef;color:#77552b;padding:10px}footer{padding:20px 4vw}a{color:#376bb0}[hidden]{display:none!important}@media(max-width:500px){main{grid-template-columns:1fr}}</style><header><h1>区域结构素材库</h1><p>先组织有职责的小区域，再通过区域关系组成整页逻辑。素材可按内容选取，样式随目标稿统一。</p><input id="q" type="search" aria-label="筛选素材" placeholder="搜索：标题框 / 流程 / 双证据 / 图注…"><p id="n">'''
     script = r'''</main><footer><a href="source.pptx">原生素材</a> · <a href="index.md">文字索引</a> · <a href="catalog.json">语义目录</a> · <a href="inventory.json">原生对象</a><p>科研内容和引用需核实来源；本页不在后台自动更新。</p></footer><script>const q=document.getElementById('q'),a=[...document.querySelectorAll('article')];q.addEventListener('input',()=>{const terms=q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);let n=0;a.forEach(x=>{x.hidden=!terms.every(t=>x.dataset.search.toLowerCase().includes(t));if(!x.hidden)n++});document.getElementById('n').textContent=`显示 ${n} / ${a.length} 页`});</script></html>'''
     page = start + f'显示 {len(entries)} / {len(entries)} 页</p></header><main>' + ''.join(cards) + script
-    (root / 'index.md').write_text('\n'.join(md).rstrip() + '\n', encoding='utf-8')
-    (root / 'gallery.html').write_text(page, encoding='utf-8')
+    (root / 'index.md').write_bytes(('\n'.join(md).rstrip() + '\n').encode('utf-8'))
+    (root / 'gallery.html').write_bytes(page.encode('utf-8'))
     return len(entries)
 
 
