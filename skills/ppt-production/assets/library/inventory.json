@@ -1,0 +1,6604 @@
+{
+  "schema_version": 1,
+  "source_path": "source.pptx",
+  "source_sha256": "bfa9e9808c90fb785ab34250b02258bb63d5b83f6d82d893e56df1ebcffb57e5",
+  "indexed_at": "2026-11-07T04:45:54.778747+00:00",
+  "source_modified_at": "2026-11-07T04:45:54.724961+00:00",
+  "coordinate_note": "Top-level xfrm is slide-local; group children require chOff/chExt scaling. Missing geometry may be inherited.",
+  "slides": [
+    {
+      "page": 1,
+      "slide_id": "257",
+      "slide_part": "ppt/slides/slide1.xml",
+      "slide_xml_sha256": "e9473106676d7f9bdb553462e0111185c1dfbff586e1eaf2095c34ac9145e93f",
+      "text": [
+        "文本框",
+        "0.25",
+        "[1] Raissi M, Yazdani A, Karniadakis G E. Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations[J]. Science, 2020, 367(6481): 1026-1030.",
+        "[2] Cai S, Li H, Zheng F, et al. Artificial intelligence velocimetry and microaneurysm-on-a-chip for three-dimensional analysis of blood flow in physiology and disease[J]. Proceedings of the National Academy of Sciences, 2021, 118(13): e2100697118."
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "9",
+          "name": "标题 1024",
+          "text": "文本框",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "2",
+          "name": "圆角矩形 87",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 1096757
+            },
+            "ext": {
+              "cx": 4929969,
+              "cy": 484513
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "3",
+          "name": "矩形 2",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 1849599
+            },
+            "ext": {
+              "cx": 4929969,
+              "cy": 484513
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "4",
+          "name": "矩形: 圆角 3",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321567,
+              "y": 2602441
+            },
+            "ext": {
+              "cx": 4929969,
+              "cy": 484513
+            }
+          },
+          "explicit_font_pts": [
+            12.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "5",
+          "name": "矩形 4",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321567,
+              "y": 3355283
+            },
+            "ext": {
+              "cx": 4929969,
+              "cy": 484513
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "6",
+          "name": "矩形 5",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321567,
+              "y": 4108123
+            },
+            "ext": {
+              "cx": 4929969,
+              "cy": 484513
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "8",
+          "name": "矩形: 圆角 7",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321566,
+              "y": 4860963
+            },
+            "ext": {
+              "cx": 4929969,
+              "cy": 484513
+            }
+          },
+          "explicit_font_pts": [
+            22.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "10",
+          "name": "矩形: 圆角 9",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321566,
+              "y": 5613804
+            },
+            "ext": {
+              "cx": 4929969,
+              "cy": 484514
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "12",
+          "name": "矩形: 圆角 11",
+          "text": "0.25\n",
+          "transform_emu": {
+            "off": {
+              "x": 5529673,
+              "y": 1096757
+            },
+            "ext": {
+              "cx": 5653087,
+              "cy": 484513
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "13",
+          "name": "文本框 12",
+          "text": "[1] Raissi M, Yazdani A, Karniadakis G E. Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations[J]. Science, 2020, 367(6481): 1026-1030.\n[2] Cai S, Li H, Zheng F, et al. Artificial intelligence velocimetry and microaneurysm-on-a-chip for three-dimensional analysis of blood flow in physiology and disease[J]. Proceedings of the National Academy of Sciences, 2021, 118(13): e2100697118.",
+          "transform_emu": {
+            "off": {
+              "x": 106324,
+              "y": 6253795
+            },
+            "ext": {
+              "cx": 11948515,
+              "cy": 600164
+            }
+          },
+          "explicit_font_pts": [
+            11.0
+          ],
+          "image_rids": [],
+          "children": []
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout1.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-01.png"
+    },
+    {
+      "page": 2,
+      "slide_id": "269",
+      "slide_part": "ppt/slides/slide2.xml",
+      "slide_xml_sha256": "196ee899969f1f3f54d08080b73f686be69cebce2bfccd143f80a7e2f4d94e81",
+      "text": [
+        "人工智能装备",
+        "图片",
+        "高光谱遥感构造解译图"
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "4",
+          "name": "箭头: 五边形 3",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 617454,
+              "y": 1188389
+            },
+            "ext": {
+              "cx": 3603307,
+              "cy": 2522162
+            }
+          },
+          "explicit_font_pts": [
+            13.5,
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "5",
+          "name": "图片 4",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 777109,
+              "y": 1370151
+            },
+            "ext": {
+              "cx": 3283996,
+              "cy": 2187963
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "6",
+          "name": "矩形: 圆顶角 5",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 617454,
+              "y": 3144727
+            },
+            "ext": {
+              "cx": 3603306,
+              "cy": 568546
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "文本框 6",
+          "text": "人工智能装备",
+          "transform_emu": {
+            "off": {
+              "x": 1403445,
+              "y": 3198168
+            },
+            "ext": {
+              "cx": 2031325,
+              "cy": 461665
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "9",
+          "name": "标题 1024",
+          "text": "图片",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "10",
+          "name": "图片 9",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5006751,
+              "y": 1370151
+            },
+            "ext": {
+              "cx": 3221273,
+              "cy": 1789596
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId3"
+          ],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "11",
+          "name": "组合 10",
+          "text": "\n高光谱遥感构造解译图",
+          "transform_emu": {
+            "off": {
+              "x": 5006751,
+              "y": 2870117
+            },
+            "ext": {
+              "cx": 3238672,
+              "cy": 400110
+            },
+            "chOff": {
+              "x": 2905870,
+              "y": 6125586
+            },
+            "chExt": {
+              "cx": 3238672,
+              "cy": 400110
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "12",
+              "name": "矩形 11",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 2905870,
+                  "y": 6125586
+                },
+                "ext": {
+                  "cx": 3238672,
+                  "cy": 400110
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "13",
+              "name": "文本框 12",
+              "text": "高光谱遥感构造解译图",
+              "transform_emu": {
+                "off": {
+                  "x": 2905870,
+                  "y": 6140975
+                },
+                "ext": {
+                  "cx": 3236234,
+                  "cy": 369332
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image2.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image1.jpg",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-02.png"
+    },
+    {
+      "page": 3,
+      "slide_id": "261",
+      "slide_part": "ppt/slides/slide3.xml",
+      "slide_xml_sha256": "4fa2c35e102fb9e6e1337d5c2a2e5d13d178e3170e082782f0f1a0be554f3495",
+      "text": [
+        "“十四五” 研发计划",
+        "通过原子材料设计外场调控，催生新量子物态",
+        "从规划、金融、补贴等税收环节推进招商引资",
+        "国际关系协调",
+        "加强",
+        "量子计算、集成电路",
+        "领域前瞻性布局",
+        "图片文本块",
+        "国家层面的支持政策",
+        "《",
+        "鼓励软件产业和集成电路产业发展的若干意见",
+        "》",
+        "首次提出税收优惠",
+        "将集成电路作为重点领域推动发展",
+        "能级钉扎效应",
+        "为进一步提升",
+        "WPT",
+        "器件提供了全新的原理支撑"
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "4",
+          "name": "箭头: 五边形 3",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 379134,
+              "y": 822814
+            },
+            "ext": {
+              "cx": 5956300,
+              "cy": 3393711
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "5",
+          "name": "矩形 4",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 525021,
+              "y": 3554365
+            },
+            "ext": {
+              "cx": 5664527,
+              "cy": 482485
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "6",
+          "name": "圆角矩形 21",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 3574485,
+              "y": 998453
+            },
+            "ext": {
+              "cx": 2615063,
+              "cy": 859316
+            }
+          },
+          "explicit_font_pts": [
+            22.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "圆角矩形 21",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 3574485,
+              "y": 2061318
+            },
+            "ext": {
+              "cx": 2615063,
+              "cy": 1313372
+            }
+          },
+          "explicit_font_pts": [
+            22.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "8",
+          "name": "矩形 7",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 520021,
+              "y": 996934
+            },
+            "ext": {
+              "cx": 2903578,
+              "cy": 482485
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "9",
+          "name": "文本框 8",
+          "text": "“十四五” 研发计划",
+          "transform_emu": {
+            "off": {
+              "x": 396095,
+              "y": 1007344
+            },
+            "ext": {
+              "cx": 3025187,
+              "cy": 461665
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "10",
+          "name": "文本框 36",
+          "text": "通过原子材料设计外场调控，催生新量子物态",
+          "transform_emu": {
+            "off": {
+              "x": 3663549,
+              "y": 1060863
+            },
+            "ext": {
+              "cx": 2615063,
+              "cy": 734496
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "11",
+          "name": "文本框 36",
+          "text": "从规划、金融、补贴等税收环节推进招商引资",
+          "transform_emu": {
+            "off": {
+              "x": 3638149,
+              "y": 2561897
+            },
+            "ext": {
+              "cx": 2615063,
+              "cy": 734496
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "12",
+          "name": "文本框 11",
+          "text": "国际关系协调",
+          "transform_emu": {
+            "off": {
+              "x": 3904826,
+              "y": 2102998
+            },
+            "ext": {
+              "cx": 1954381,
+              "cy": 470578
+            }
+          },
+          "explicit_font_pts": [
+            22.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "13",
+          "name": "文本框 12",
+          "text": "加强量子计算、集成电路领域前瞻性布局",
+          "transform_emu": {
+            "off": {
+              "x": 651590,
+              "y": 3560318
+            },
+            "ext": {
+              "cx": 5493812,
+              "cy": 470578
+            }
+          },
+          "explicit_font_pts": [
+            22.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "14",
+          "name": "图片 13",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 525021,
+              "y": 1479418
+            },
+            "ext": {
+              "cx": 2898578,
+              "cy": 1895271
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "15",
+          "name": "标题 1024",
+          "text": "图片文本块",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "27",
+          "name": "组合 26",
+          "text": "\n\n国家层面的支持政策\n\n《鼓励软件产业和集成电路产业发展的若干意见》首次提出税收优惠\n将集成电路作为重点领域推动发展\n\n\n",
+          "transform_emu": {
+            "off": {
+              "x": 6770966,
+              "y": 822814
+            },
+            "ext": {
+              "cx": 5041900,
+              "cy": 3393710
+            },
+            "chOff": {
+              "x": 6654800,
+              "y": 2226040
+            },
+            "chExt": {
+              "cx": 5041900,
+              "cy": 3393710
+            }
+          },
+          "explicit_font_pts": [
+            12.0,
+            14.0,
+            16.0,
+            18.0,
+            24.0
+          ],
+          "image_rids": [
+            "rId3",
+            "rId4",
+            "rId5"
+          ],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "16",
+              "name": "箭头: 五边形 15",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 6654800,
+                  "y": 2226040
+                },
+                "ext": {
+                  "cx": 5041900,
+                  "cy": 3393710
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "17",
+              "name": "矩形: 圆顶角 16",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 6654800,
+                  "y": 2226041
+                },
+                "ext": {
+                  "cx": 5041900,
+                  "cy": 563591
+                }
+              },
+              "explicit_font_pts": [
+                16.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "18",
+              "name": "文本框 17",
+              "text": "国家层面的支持政策",
+              "transform_emu": {
+                "off": {
+                  "x": 7640715,
+                  "y": 2255363
+                },
+                "ext": {
+                  "cx": 3070071,
+                  "cy": 504946
+                }
+              },
+              "explicit_font_pts": [
+                24.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "pic",
+              "id": "19",
+              "name": "图片 18",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 6808430,
+                  "y": 2956708
+                },
+                "ext": {
+                  "cx": 1463167,
+                  "cy": 1109568
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [
+                "rId3"
+              ],
+              "children": []
+            },
+            {
+              "kind": "pic",
+              "id": "20",
+              "name": "图片 19",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 8437586,
+                  "y": 2956708
+                },
+                "ext": {
+                  "cx": 1463167,
+                  "cy": 1109568
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [
+                "rId4"
+              ],
+              "children": []
+            },
+            {
+              "kind": "pic",
+              "id": "21",
+              "name": "图片 20",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 10066743,
+                  "y": 2956708
+                },
+                "ext": {
+                  "cx": 1463167,
+                  "cy": 1109568
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [
+                "rId5"
+              ],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "22",
+              "name": "矩形 21",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 6828391,
+                  "y": 4273164
+                },
+                "ext": {
+                  "cx": 4703590,
+                  "cy": 1169080
+                }
+              },
+              "explicit_font_pts": [
+                12.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "23",
+              "name": "文本框 22",
+              "text": "《鼓励软件产业和集成电路产业发展的若干意见》首次提出税收优惠\n将集成电路作为重点领域推动发展",
+              "transform_emu": {
+                "off": {
+                  "x": 6857802,
+                  "y": 4324289
+                },
+                "ext": {
+                  "cx": 4674178,
+                  "cy": 1066574
+                }
+              },
+              "explicit_font_pts": [
+                14.0,
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "24",
+              "name": "箭头: 下 23",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 7458146,
+                  "y": 4092114
+                },
+                "ext": {
+                  "cx": 163733,
+                  "cy": 157306
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "25",
+              "name": "箭头: 下 24",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 9087303,
+                  "y": 4092114
+                },
+                "ext": {
+                  "cx": 163733,
+                  "cy": 157306
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "26",
+              "name": "箭头: 下 25",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 10716460,
+                  "y": 4092114
+                },
+                "ext": {
+                  "cx": 163733,
+                  "cy": 157306
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "grpSp",
+          "id": "28",
+          "name": "组合 27",
+          "text": "\n能级钉扎效应\n为进一步提升WPT器件提供了全新的原理支撑",
+          "transform_emu": {
+            "off": {
+              "x": 539552,
+              "y": 4448035
+            },
+            "ext": {
+              "cx": 6247994,
+              "cy": 2024019
+            },
+            "chOff": {
+              "x": 5278755,
+              "y": 3657600
+            },
+            "chExt": {
+              "cx": 6247994,
+              "cy": 2024019
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId6",
+            "rId7"
+          ],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "29",
+              "name": "矩形: 圆顶角 28",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 5278755,
+                  "y": 3657600
+                },
+                "ext": {
+                  "cx": 6247994,
+                  "cy": 2024019
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "pic",
+              "id": "30",
+              "name": "Picture 4",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 5887430,
+                  "y": 4968445
+                },
+                "ext": {
+                  "cx": 4292373,
+                  "cy": 575587
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [
+                "rId6"
+              ],
+              "children": []
+            },
+            {
+              "kind": "pic",
+              "id": "31",
+              "name": "Picture 6",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 5887430,
+                  "y": 3797850
+                },
+                "ext": {
+                  "cx": 4292373,
+                  "cy": 1121774
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [
+                "rId7"
+              ],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "32",
+              "name": "文本框 31",
+              "text": "能级钉扎效应",
+              "transform_emu": {
+                "off": {
+                  "x": 5340180,
+                  "y": 3931682
+                },
+                "ext": {
+                  "cx": 461665,
+                  "cy": 1477328
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "33",
+              "name": "文本框 32",
+              "text": "为进一步提升WPT器件提供了全新的原理支撑",
+              "transform_emu": {
+                "off": {
+                  "x": 10265388,
+                  "y": 3803924
+                },
+                "ext": {
+                  "cx": 1226633,
+                  "cy": 1731371
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image4.png",
+          "external": false
+        },
+        {
+          "id": "rId7",
+          "type": "image",
+          "target": "ppt/media/image8.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image3.png",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        },
+        {
+          "id": "rId6",
+          "type": "image",
+          "target": "ppt/media/image7.png",
+          "external": false
+        },
+        {
+          "id": "rId5",
+          "type": "image",
+          "target": "ppt/media/image6.png",
+          "external": false
+        },
+        {
+          "id": "rId4",
+          "type": "image",
+          "target": "ppt/media/image5.png",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-03.png"
+    },
+    {
+      "page": 4,
+      "slide_id": "263",
+      "slide_part": "ppt/slides/slide4.xml",
+      "slide_xml_sha256": "4cd7486a4857f6ae249eee4c106164efa39c6e3fb2e23b72f0e2ca4073235b37",
+      "text": [
+        "图片文本块",
+        "利用碳纳米管（",
+        "CNT",
+        "）薄膜的",
+        "热声效应",
+        "实现了",
+        "等效声增益介质",
+        "，并构建出受拓扑保护的",
+        "非厄米耳语回廊结构",
+        "首次在片上系统中实现了",
+        "“宇称",
+        "—",
+        "时间反对称（",
+        "Anti-Parity-Time Symmetry",
+        "）的声学奇异点”",
+        "0.25",
+        "0.25",
+        "引入",
+        "MSAV",
+        "I",
+        "和",
+        "NDVI",
+        "，用来剔除",
+        "LAI",
+        "和土壤背景的影响",
+        "可对研究区植被覆盖度指标进行有效评估",
+        "土壤及植被高光谱遥感监测"
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "15",
+          "name": "标题 1024",
+          "text": "图片文本块",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "2",
+          "name": "图片 1",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 3894335,
+              "y": 249264
+            },
+            "ext": {
+              "cx": 3592321,
+              "cy": 2550024
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "3",
+          "name": "对话气泡: 矩形 2",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 1633610
+            },
+            "ext": {
+              "cx": 4449560,
+              "cy": 1165677
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "35",
+          "name": "Picture 2",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7385944,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 4140200,
+              "cy": 1336940
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId3"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "36",
+          "name": "对话气泡: 矩形 35",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7533784,
+              "y": 1633610
+            },
+            "ext": {
+              "cx": 3992359,
+              "cy": 1165677
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "37",
+          "name": "文本框 36",
+          "text": "利用碳纳米管（CNT）薄膜的热声效应实现了等效声增益介质，并构建出受拓扑保护的非厄米耳语回廊结构",
+          "transform_emu": {
+            "off": {
+              "x": 7609984,
+              "y": 1684411
+            },
+            "ext": {
+              "cx": 3919336,
+              "cy": 1064009
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "38",
+          "name": "文本框 37",
+          "text": "首次在片上系统中实现了“宇称—时间反对称（Anti-Parity-Time Symmetry）的声学奇异点”",
+          "transform_emu": {
+            "off": {
+              "x": 476941,
+              "y": 1684411
+            },
+            "ext": {
+              "cx": 4295776,
+              "cy": 1064009
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "39",
+          "name": "矩形: 圆角 38",
+          "text": "0.25\n",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 3189077
+            },
+            "ext": {
+              "cx": 5653087,
+              "cy": 1984512
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "43",
+          "name": "图片 42",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 587712,
+              "y": 3859874
+            },
+            "ext": {
+              "cx": 3582710,
+              "cy": 1150430
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId4"
+          ],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "44",
+          "name": "图片 43",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 4170423,
+              "y": 3859874
+            },
+            "ext": {
+              "cx": 1609316,
+              "cy": 1150430
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId5"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "45",
+          "name": "矩形: 圆角 44",
+          "text": "0.25\n",
+          "transform_emu": {
+            "off": {
+              "x": 6808052,
+              "y": 3189077
+            },
+            "ext": {
+              "cx": 5062380,
+              "cy": 1984512
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "46",
+          "name": "图片 45",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7067604,
+              "y": 3743725
+            },
+            "ext": {
+              "cx": 4543276,
+              "cy": 1028208
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId6"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "47",
+          "name": "文本框 46",
+          "text": "引入MSAVI和NDVI，用来剔除LAI和土壤背景的影响",
+          "transform_emu": {
+            "off": {
+              "x": 6837973,
+              "y": 3251795
+            },
+            "ext": {
+              "cx": 5002539,
+              "cy": 338554
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "48",
+          "name": "箭头: 右 47",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 9250275,
+              "y": 3508985
+            },
+            "ext": {
+              "cx": 177933,
+              "cy": 233178
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "49",
+          "name": "文本框 48",
+          "text": "可对研究区植被覆盖度指标进行有效评估",
+          "transform_emu": {
+            "off": {
+              "x": 7220922,
+              "y": 4806978
+            },
+            "ext": {
+              "cx": 4236641,
+              "cy": 349198
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "40",
+          "name": "组合 39",
+          "text": "\n土壤及植被高光谱遥感监测",
+          "transform_emu": {
+            "off": {
+              "x": 441245,
+              "y": 3276387
+            },
+            "ext": {
+              "cx": 3875644,
+              "cy": 445378
+            },
+            "chOff": {
+              "x": 634249,
+              "y": 2499724
+            },
+            "chExt": {
+              "cx": 1513286,
+              "cy": 445378
+            }
+          },
+          "explicit_font_pts": [
+            18.0,
+            20.0,
+            28.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "41",
+              "name": "矩形: 圆角 40",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 676399,
+                  "y": 2520890
+                },
+                "ext": {
+                  "cx": 1463698,
+                  "cy": 416988
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "42",
+              "name": "文本框 41",
+              "text": "土壤及植被高光谱遥感监测",
+              "transform_emu": {
+                "off": {
+                  "x": 634249,
+                  "y": 2499724
+                },
+                "ext": {
+                  "cx": 1513286,
+                  "cy": 445378
+                }
+              },
+              "explicit_font_pts": [
+                20.0,
+                28.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image10.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image9.png",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        },
+        {
+          "id": "rId6",
+          "type": "image",
+          "target": "ppt/media/image13.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId5",
+          "type": "image",
+          "target": "ppt/media/image12.png",
+          "external": false
+        },
+        {
+          "id": "rId4",
+          "type": "image",
+          "target": "ppt/media/image11.jpeg",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-04.png"
+    },
+    {
+      "page": 5,
+      "slide_id": "265",
+      "slide_part": "ppt/slides/slide5.xml",
+      "slide_xml_sha256": "d0b315c1f1fc7f56cdb55c9e1c3f9c866e6d3f37d1b3633cc329cafe1dae4e91",
+      "text": [
+        "《Science》",
+        "期刊",
+        "发布",
+        "125",
+        "个科学问题",
+        "What are the limits of heat transfer in matter",
+        "？",
+        "物质",
+        "传热的极限",
+        "是什么？",
+        "图片文本块",
+        "0.25",
+        "原始数据与经过预处理的光谱图",
+        "提高了光谱数据与茶叶品质成分相关性",
+        "连续投影算法（",
+        "SPA",
+        "）",
+        "竞争性自适应重加权",
+        "(CARS)"
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "4",
+          "name": "矩形 3",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2128606,
+              "y": 1027839
+            },
+            "ext": {
+              "cx": 4342287,
+              "cy": 2164563
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "5",
+          "name": "图片 4",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 440635,
+              "y": 1027839
+            },
+            "ext": {
+              "cx": 1681138,
+              "cy": 2164564
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "6",
+          "name": "文本框 5",
+          "text": "《Science》期刊发布125个科学问题",
+          "transform_emu": {
+            "off": {
+              "x": 2660024,
+              "y": 1238354
+            },
+            "ext": {
+              "cx": 2934633,
+              "cy": 830997
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "文本框 6",
+          "text": "What are the limits of heat transfer in matter？物质传热的极限是什么？",
+          "transform_emu": {
+            "off": {
+              "x": 2313153,
+              "y": 1946240
+            },
+            "ext": {
+              "cx": 3878489,
+              "cy": 1200329
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "8",
+          "name": "标题 1024",
+          "text": "图片文本块",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "9",
+          "name": "矩形: 圆角 8",
+          "text": "0.25\n",
+          "transform_emu": {
+            "off": {
+              "x": 440635,
+              "y": 3639168
+            },
+            "ext": {
+              "cx": 7268418,
+              "cy": 1674820
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "10",
+          "name": "矩形: 圆角 9",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2330794,
+              "y": 3482253
+            },
+            "ext": {
+              "cx": 3558540,
+              "cy": 365838
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "11",
+          "name": "文本框 10",
+          "text": "原始数据与经过预处理的光谱图",
+          "transform_emu": {
+            "off": {
+              "x": 2295574,
+              "y": 3475890
+            },
+            "ext": {
+              "cx": 3558540,
+              "cy": 378565
+            }
+          },
+          "explicit_font_pts": [
+            18.0,
+            28.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "12",
+          "name": "图片 11",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 519525,
+              "y": 3931036
+            },
+            "ext": {
+              "cx": 3432774,
+              "cy": 1253756
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId3"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "13",
+          "name": "矩形: 圆角 12",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 4011320,
+              "y": 3927780
+            },
+            "ext": {
+              "cx": 3603228,
+              "cy": 439468
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "14",
+          "name": "文本框 13",
+          "text": "提高了光谱数据与茶叶品质成分相关性",
+          "transform_emu": {
+            "off": {
+              "x": 4011320,
+              "y": 3978237
+            },
+            "ext": {
+              "cx": 3672351,
+              "cy": 338554
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "15",
+          "name": "矩形: 圆角 14",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 4011320,
+              "y": 4423121
+            },
+            "ext": {
+              "cx": 3603228,
+              "cy": 820669
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "16",
+          "name": "文本框 15",
+          "text": "连续投影算法（SPA）\n竞争性自适应重加权(CARS)",
+          "transform_emu": {
+            "off": {
+              "x": 4011320,
+              "y": 4491299
+            },
+            "ext": {
+              "cx": 3516530,
+              "cy": 663130
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image15.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image14.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-05.png"
+    },
+    {
+      "page": 6,
+      "slide_id": "267",
+      "slide_part": "ppt/slides/slide6.xml",
+      "slide_xml_sha256": "8c06a6c120f74c3d039746037362b3a5402294acd12f634ee8ec57d06ba0dcb3",
+      "text": [
+        "图片文本块",
+        "0.25",
+        "光谱遥感",
+        "高光谱遥感原理图",
+        "作为遥感技术发展过程中的重大创新，",
+        "为观测地物提供了有效手段",
+        "基于协同稀疏和",
+        "TV",
+        "正则项的高光谱线性解混方法",
+        "提高解混精度",
+        "全局施加协同稀疏",
+        "利用行稀疏特性",
+        "基于非负矩阵分解的稀疏性高光谱解混方法",
+        "基于光谱库的稀疏性高光谱解混方法",
+        "稀疏性高光谱解混模型"
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "8",
+          "name": "标题 1024",
+          "text": "图片文本块",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "2",
+          "name": "矩形: 圆角 1",
+          "text": "0.25\n",
+          "transform_emu": {
+            "off": {
+              "x": 4637474,
+              "y": 1033672
+            },
+            "ext": {
+              "cx": 7003084,
+              "cy": 4165603
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "3",
+          "name": "图片 2",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 765800,
+              "y": 1718231
+            },
+            "ext": {
+              "cx": 3483429,
+              "cy": 2519772
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "17",
+          "name": "矩形 16",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 396720,
+              "y": 1132522
+            },
+            "ext": {
+              "cx": 4165602,
+              "cy": 3967903
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "18",
+          "name": "直角三角形 17",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 368433,
+              "y": 1504137
+            },
+            "ext": {
+              "cx": 80272,
+              "cy": 173997
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "19",
+          "name": "矩形: 单圆角 18",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 1162593
+            },
+            "ext": {
+              "cx": 1901623,
+              "cy": 393169
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "20",
+          "name": "文本框 19",
+          "text": "光谱遥感",
+          "transform_emu": {
+            "off": {
+              "x": 495568,
+              "y": 1169900
+            },
+            "ext": {
+              "cx": 1727624,
+              "cy": 400110
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "21",
+          "name": "矩形 20",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 765800,
+              "y": 3880101
+            },
+            "ext": {
+              "cx": 3483429,
+              "cy": 357902
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "22",
+          "name": "文本框 21",
+          "text": "高光谱遥感原理图",
+          "transform_emu": {
+            "off": {
+              "x": 873090,
+              "y": 3868671
+            },
+            "ext": {
+              "cx": 3304650,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "23",
+          "name": "文本框 22",
+          "text": "作为遥感技术发展过程中的重大创新，为观测地物提供了有效手段",
+          "transform_emu": {
+            "off": {
+              "x": 689690,
+              "y": 4368610
+            },
+            "ext": {
+              "cx": 3579661,
+              "cy": 663130
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "24",
+          "name": "图片 23",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 4927836,
+              "y": 1707539
+            },
+            "ext": {
+              "cx": 4143203,
+              "cy": 2068760
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId3"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "25",
+          "name": "文本框 24",
+          "text": "基于协同稀疏和TV正则项的高光谱线性解混方法",
+          "transform_emu": {
+            "off": {
+              "x": 4724785,
+              "y": 1155652
+            },
+            "ext": {
+              "cx": 5985012,
+              "cy": 400110
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "26",
+          "name": "组合 25",
+          "text": "\n提高解混精度\n\n全局施加协同稀疏\n\n利用行稀疏特性",
+          "transform_emu": {
+            "off": {
+              "x": 9229474,
+              "y": 2027442
+            },
+            "ext": {
+              "cx": 2154921,
+              "cy": 1428954
+            },
+            "chOff": {
+              "x": 9338003,
+              "y": 3246081
+            },
+            "chExt": {
+              "cx": 2154921,
+              "cy": 1428954
+            }
+          },
+          "explicit_font_pts": [
+            16.0,
+            28.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "grpSp",
+              "id": "27",
+              "name": "组合 26",
+              "text": "\n提高解混精度",
+              "transform_emu": {
+                "off": {
+                  "x": 9338003,
+                  "y": 3246081
+                },
+                "ext": {
+                  "cx": 2154921,
+                  "cy": 365838
+                },
+                "chOff": {
+                  "x": 9338003,
+                  "y": 3246081
+                },
+                "chExt": {
+                  "cx": 2154921,
+                  "cy": 365838
+                }
+              },
+              "explicit_font_pts": [
+                16.0,
+                28.0
+              ],
+              "image_rids": [],
+              "children": [
+                {
+                  "kind": "sp",
+                  "id": "34",
+                  "name": "矩形: 圆角 33",
+                  "text": "",
+                  "transform_emu": {
+                    "off": {
+                      "x": 9338003,
+                      "y": 3246081
+                    },
+                    "ext": {
+                      "cx": 2154921,
+                      "cy": 365838
+                    }
+                  },
+                  "explicit_font_pts": [
+                    16.0
+                  ],
+                  "image_rids": [],
+                  "children": []
+                },
+                {
+                  "kind": "sp",
+                  "id": "35",
+                  "name": "文本框 34",
+                  "text": "提高解混精度",
+                  "transform_emu": {
+                    "off": {
+                      "x": 9338003,
+                      "y": 3255106
+                    },
+                    "ext": {
+                      "cx": 2123790,
+                      "cy": 347788
+                    }
+                  },
+                  "explicit_font_pts": [
+                    16.0,
+                    28.0
+                  ],
+                  "image_rids": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "kind": "grpSp",
+              "id": "28",
+              "name": "组合 27",
+              "text": "\n全局施加协同稀疏",
+              "transform_emu": {
+                "off": {
+                  "x": 9338003,
+                  "y": 4288031
+                },
+                "ext": {
+                  "cx": 2154921,
+                  "cy": 387004
+                },
+                "chOff": {
+                  "x": 676399,
+                  "y": 2499724
+                },
+                "chExt": {
+                  "cx": 1463698,
+                  "cy": 387004
+                }
+              },
+              "explicit_font_pts": [
+                16.0,
+                28.0
+              ],
+              "image_rids": [],
+              "children": [
+                {
+                  "kind": "sp",
+                  "id": "32",
+                  "name": "矩形: 圆角 31",
+                  "text": "",
+                  "transform_emu": {
+                    "off": {
+                      "x": 676399,
+                      "y": 2520890
+                    },
+                    "ext": {
+                      "cx": 1463698,
+                      "cy": 365838
+                    }
+                  },
+                  "explicit_font_pts": [
+                    16.0
+                  ],
+                  "image_rids": [],
+                  "children": []
+                },
+                {
+                  "kind": "sp",
+                  "id": "33",
+                  "name": "文本框 32",
+                  "text": "全局施加协同稀疏",
+                  "transform_emu": {
+                    "off": {
+                      "x": 697544,
+                      "y": 2499724
+                    },
+                    "ext": {
+                      "cx": 1442553,
+                      "cy": 376642
+                    }
+                  },
+                  "explicit_font_pts": [
+                    16.0,
+                    28.0
+                  ],
+                  "image_rids": [],
+                  "children": []
+                }
+              ]
+            },
+            {
+              "kind": "grpSp",
+              "id": "29",
+              "name": "组合 28",
+              "text": "\n利用行稀疏特性",
+              "transform_emu": {
+                "off": {
+                  "x": 9338003,
+                  "y": 3756473
+                },
+                "ext": {
+                  "cx": 2154921,
+                  "cy": 387004
+                },
+                "chOff": {
+                  "x": 676399,
+                  "y": 2499724
+                },
+                "chExt": {
+                  "cx": 1463698,
+                  "cy": 387004
+                }
+              },
+              "explicit_font_pts": [
+                16.0,
+                28.0
+              ],
+              "image_rids": [],
+              "children": [
+                {
+                  "kind": "sp",
+                  "id": "30",
+                  "name": "矩形: 圆角 29",
+                  "text": "",
+                  "transform_emu": {
+                    "off": {
+                      "x": 676399,
+                      "y": 2520890
+                    },
+                    "ext": {
+                      "cx": 1463698,
+                      "cy": 365838
+                    }
+                  },
+                  "explicit_font_pts": [
+                    16.0
+                  ],
+                  "image_rids": [],
+                  "children": []
+                },
+                {
+                  "kind": "sp",
+                  "id": "31",
+                  "name": "文本框 30",
+                  "text": "利用行稀疏特性",
+                  "transform_emu": {
+                    "off": {
+                      "x": 697544,
+                      "y": 2499724
+                    },
+                    "ext": {
+                      "cx": 1442553,
+                      "cy": 376642
+                    }
+                  },
+                  "explicit_font_pts": [
+                    16.0,
+                    28.0
+                  ],
+                  "image_rids": [],
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "sp",
+          "id": "36",
+          "name": "矩形: 圆角 35",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 4937579,
+              "y": 3942020
+            },
+            "ext": {
+              "cx": 6541793,
+              "cy": 1089720
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "37",
+          "name": "文本框 36",
+          "text": "基于非负矩阵分解的稀疏性高光谱解混方法\n基于光谱库的稀疏性高光谱解混方法",
+          "transform_emu": {
+            "off": {
+              "x": 7039573,
+              "y": 4139295
+            },
+            "ext": {
+              "cx": 4901089,
+              "cy": 663130
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "38",
+          "name": "文本框 37",
+          "text": "稀疏性高光谱解混模型",
+          "transform_emu": {
+            "off": {
+              "x": 5053001,
+              "y": 4085552
+            },
+            "ext": {
+              "cx": 1795861,
+              "cy": 802656
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "39",
+          "name": "直接连接符 38",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 6999437,
+              "y": 4039355
+            },
+            "ext": {
+              "cx": 0,
+              "cy": 895050
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image17.png",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image16.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-06.png"
+    },
+    {
+      "page": 7,
+      "slide_id": "268",
+      "slide_part": "ppt/slides/slide7.xml",
+      "slide_xml_sha256": "4722d68b5e291eb9ea5a6a4a859a74d304516f9a797830a98c71996e9106e610",
+      "text": [
+        "图片文本块",
+        "0.25",
+        "根据掺入时间进行的光谱分析",
+        "通过对",
+        "PolyTPD:BCF",
+        "薄膜的各种光谱测量，",
+        "研究了",
+        "BCF",
+        "掺入对",
+        "PolyTPD",
+        "的原子和分子水平的改变",
+        "傅里叶变换红外光谱（",
+        "FT-IR",
+        "）",
+        "证实了",
+        "BCF",
+        "在",
+        "PolyTPD:BCF",
+        "薄膜中的存在",
+        "获取",
+        "0.8",
+        "至",
+        "2.4",
+        "微米的辐射度光谱",
+        "物理化学特性",
+        "可校准感知神经元",
+        "与类脑多模态感知",
+        "脉冲神经网络（",
+        "SNN",
+        "）"
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "8",
+          "name": "标题 1024",
+          "text": "图片文本块",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "4",
+          "name": "矩形: 圆角 3",
+          "text": "0.25\n",
+          "transform_emu": {
+            "off": {
+              "x": 401095,
+              "y": 1115652
+            },
+            "ext": {
+              "cx": 6298914,
+              "cy": 3596075
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "5",
+          "name": "梯形 4",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 872100,
+              "y": 1116031
+            },
+            "ext": {
+              "cx": 5356904,
+              "cy": 428514
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "6",
+          "name": "文本框 5",
+          "text": "根据掺入时间进行的光谱分析",
+          "transform_emu": {
+            "off": {
+              "x": 1610627,
+              "y": 1141006
+            },
+            "ext": {
+              "cx": 3879850,
+              "cy": 378565
+            }
+          },
+          "explicit_font_pts": [
+            18.0,
+            28.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "矩形: 圆角 6",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 601129,
+              "y": 1697058
+            },
+            "ext": {
+              "cx": 5868693,
+              "cy": 746325
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "9",
+          "name": "文本框 8",
+          "text": "通过对PolyTPD:BCF薄膜的各种光谱测量，研究了BCF掺入对PolyTPD的原子和分子水平的改变",
+          "transform_emu": {
+            "off": {
+              "x": 692859,
+              "y": 1747385
+            },
+            "ext": {
+              "cx": 5715386,
+              "cy": 663130
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "10",
+          "name": "矩形: 圆角 9",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 3021866,
+              "y": 3447583
+            },
+            "ext": {
+              "cx": 3560670,
+              "cy": 1064119
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "11",
+          "name": "矩形: 圆角 10",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 601129,
+              "y": 2583997
+            },
+            "ext": {
+              "cx": 5868693,
+              "cy": 746325
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "12",
+          "name": "文本框 11",
+          "text": "傅里叶变换红外光谱（FT-IR）证实了BCF在PolyTPD:BCF薄膜中的存在",
+          "transform_emu": {
+            "off": {
+              "x": 692859,
+              "y": 2634324
+            },
+            "ext": {
+              "cx": 5715386,
+              "cy": 663130
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "13",
+          "name": "图片 12",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 616321,
+              "y": 3447582
+            },
+            "ext": {
+              "cx": 1916501,
+              "cy": 1157750
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "14",
+          "name": "文本框 13",
+          "text": "获取0.8至2.4微米的辐射度光谱",
+          "transform_emu": {
+            "off": {
+              "x": 3120244,
+              "y": 3830358
+            },
+            "ext": {
+              "cx": 3363913,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "15",
+          "name": "箭头: 下 14",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2576962,
+              "y": 3855301
+            },
+            "ext": {
+              "cx": 342172,
+              "cy": 292286
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "16",
+          "name": "矩形: 圆角 15",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7208349,
+              "y": 702540
+            },
+            "ext": {
+              "cx": 3535664,
+              "cy": 4050213
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "40",
+          "name": "矩形: 圆顶角 39",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7464612,
+              "y": 1918793
+            },
+            "ext": {
+              "cx": 3023138,
+              "cy": 860943
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "41",
+          "name": "箭头: 五边形 40",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 8538307,
+              "y": -171241
+            },
+            "ext": {
+              "cx": 875748,
+              "cy": 2853114
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "42",
+          "name": "等腰三角形 41",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 8709678,
+              "y": 1754962
+            },
+            "ext": {
+              "cx": 533007,
+              "cy": 117318
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "43",
+          "name": "文本框 42",
+          "text": "物理化学特性",
+          "transform_emu": {
+            "off": {
+              "x": 9661636,
+              "y": 2028215
+            },
+            "ext": {
+              "cx": 713341,
+              "cy": 642099
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "44",
+          "name": "文本框 43",
+          "text": "可校准感知神经元\n与类脑多模态感知",
+          "transform_emu": {
+            "off": {
+              "x": 7960519,
+              "y": 832682
+            },
+            "ext": {
+              "cx": 2031325,
+              "cy": 734175
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "45",
+          "name": "矩形: 圆顶角 44",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7464612,
+              "y": 3020614
+            },
+            "ext": {
+              "cx": 3023138,
+              "cy": 1630535
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "46",
+          "name": "文本框 45",
+          "text": "脉冲神经网络（SNN）",
+          "transform_emu": {
+            "off": {
+              "x": 8025175,
+              "y": 3060842
+            },
+            "ext": {
+              "cx": 2054412,
+              "cy": 275075
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "47",
+          "name": "箭头: 下 46",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 8866536,
+              "y": 2798788
+            },
+            "ext": {
+              "cx": 219291,
+              "cy": 240878
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "48",
+          "name": "图片 47",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7633693,
+              "y": 2011127
+            },
+            "ext": {
+              "cx": 1895475,
+              "cy": 676275
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId3"
+          ],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "49",
+          "name": "图片 48",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7580397,
+              "y": 3350560
+            },
+            "ext": {
+              "cx": 2791569,
+              "cy": 1233955
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId4"
+          ],
+          "children": []
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image19.png",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image18.png",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        },
+        {
+          "id": "rId4",
+          "type": "image",
+          "target": "ppt/media/image20.png",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-07.png"
+    },
+    {
+      "page": 8,
+      "slide_id": "271",
+      "slide_part": "ppt/slides/slide8.xml",
+      "slide_xml_sha256": "e046a4859658228c677c4581881179403fde29e4f70db3d646473bbdf55db72f",
+      "text": [
+        "获得奖项",
+        "为未来新型电子学器件和磁存储技术的发展提供了重要的科学依据和技术支持",
+        "图片文本块",
+        "DFT",
+        "第一性原理计算",
+        "纳米受限空间流体",
+        "异常输运行为",
+        "云母表面水相粘度增大",
+        "石墨烯管道内流体快速流动"
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "4",
+          "name": "幻云PPT-演示军团10",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 1065942
+            },
+            "ext": {
+              "cx": 4704586,
+              "cy": 4007348
+            }
+          },
+          "explicit_font_pts": [
+            10.62
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "5",
+          "name": "幻云PPT-演示军团11",
+          "text": "获得奖项",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 1034115
+            },
+            "ext": {
+              "cx": 4704586,
+              "cy": 536528
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "6",
+          "name": "幻云PPT-演示军团14",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 474150,
+              "y": 3885702
+            },
+            "ext": {
+              "cx": 4399423,
+              "cy": 1027931
+            }
+          },
+          "explicit_font_pts": [
+            12.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "文本框 6",
+          "text": "为未来新型电子学器件和磁存储技术的发展提供了重要的科学依据和技术支持",
+          "transform_emu": {
+            "off": {
+              "x": 599848,
+              "y": 4022856
+            },
+            "ext": {
+              "cx": 4148026,
+              "cy": 782650
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "8",
+          "name": "图片 7",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 474150,
+              "y": 1623828
+            },
+            "ext": {
+              "cx": 4399423,
+              "cy": 2240390
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "9",
+          "name": "标题 1024",
+          "text": "图片文本块",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "12",
+          "name": "圆角矩形 87",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5545848,
+              "y": 1061788
+            },
+            "ext": {
+              "cx": 3240000,
+              "cy": 2219439
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "13",
+          "name": "组合 12",
+          "text": "\nDFT第一性原理计算",
+          "transform_emu": {
+            "off": {
+              "x": 6129064,
+              "y": 851636
+            },
+            "ext": {
+              "cx": 2195725,
+              "cy": 351536
+            },
+            "chOff": {
+              "x": 1393188,
+              "y": 964477
+            },
+            "chExt": {
+              "cx": 2536677,
+              "cy": 415470
+            }
+          },
+          "explicit_font_pts": [
+            16.0,
+            18.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "14",
+              "name": "矩形 13",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 1393188,
+                  "y": 964477
+                },
+                "ext": {
+                  "cx": 2455232,
+                  "cy": 415374
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "15",
+              "name": "文本框 14",
+              "text": "DFT第一性原理计算",
+              "transform_emu": {
+                "off": {
+                  "x": 1414933,
+                  "y": 998310
+                },
+                "ext": {
+                  "cx": 2514932,
+                  "cy": 381637
+                }
+              },
+              "explicit_font_pts": [
+                16.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "sp",
+          "id": "16",
+          "name": "矩形 15",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5403943,
+              "y": 3604312
+            },
+            "ext": {
+              "cx": 6564957,
+              "cy": 2403083
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "17",
+          "name": "图片 16",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5715589,
+              "y": 4131141
+            },
+            "ext": {
+              "cx": 1947908,
+              "cy": 1281414
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId3"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "18",
+          "name": "文本框 17",
+          "text": "纳米受限空间流体异常输运行为",
+          "transform_emu": {
+            "off": {
+              "x": 6342931,
+              "y": 3576773
+            },
+            "ext": {
+              "cx": 4753909,
+              "cy": 400110
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "19",
+          "name": "文本框 18",
+          "text": "云母表面水相粘度增大",
+          "transform_emu": {
+            "off": {
+              "x": 5564470,
+              "y": 5525412
+            },
+            "ext": {
+              "cx": 2642864,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "20",
+          "name": "图片 19",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 8058285,
+              "y": 4183563
+            },
+            "ext": {
+              "cx": 3780126,
+              "cy": 1284923
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId4"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "21",
+          "name": "文本框 20",
+          "text": "石墨烯管道内流体快速流动",
+          "transform_emu": {
+            "off": {
+              "x": 8348512,
+              "y": 5521218
+            },
+            "ext": {
+              "cx": 3234867,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image22.png",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image21.png",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        },
+        {
+          "id": "rId4",
+          "type": "image",
+          "target": "ppt/media/image23.png",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-08.png"
+    },
+    {
+      "page": 9,
+      "slide_id": "262",
+      "slide_part": "ppt/slides/slide9.xml",
+      "slide_xml_sha256": "11b95af4c282e5d951d153b487faf31a6c9d9c7315691da986f45187447ec869",
+      "text": [
+        "Gold electrode ground",
+        "Silicon",
+        "dioxide",
+        "Lithium",
+        "niobate",
+        "Silicon",
+        "Continuous",
+        "Wave laser in",
+        "Modulated",
+        "Light out",
+        "Electric",
+        "Signal in",
+        "Gold electrode source",
+        "图片标注",
+        "点能隙拓扑",
+        "在复平面上形成闭环",
+        "非互易耦合",
+        "一维非厄米趋肤效应"
+      ],
+      "shapes": [
+        {
+          "kind": "pic",
+          "id": "4",
+          "name": "Picture 2",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 739508,
+              "y": 822814
+            },
+            "ext": {
+              "cx": 3755393,
+              "cy": 2721085
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "5",
+          "name": "直接箭头连接符 4",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 1324886,
+              "y": 1912230
+            },
+            "ext": {
+              "cx": 539750,
+              "cy": 301625
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "6",
+          "name": "直接箭头连接符 5",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2686709,
+              "y": 2213855
+            },
+            "ext": {
+              "cx": 0,
+              "cy": 1135663
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "7",
+          "name": "直接箭头连接符 6",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 3193915,
+              "y": 2247190
+            },
+            "ext": {
+              "cx": 0,
+              "cy": 619128
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "8",
+          "name": "直接箭头连接符 7",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 3741603,
+              "y": 2037643
+            },
+            "ext": {
+              "cx": 0,
+              "cy": 828675
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "9",
+          "name": "直接箭头连接符 8",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 4182134,
+              "y": 1951861
+            },
+            "ext": {
+              "cx": 0,
+              "cy": 914458
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "10",
+          "name": "文本框 9",
+          "text": "Gold electrode ground",
+          "transform_emu": {
+            "off": {
+              "x": 1632751,
+              "y": 3273834
+            },
+            "ext": {
+              "cx": 2150782,
+              "cy": 298672
+            }
+          },
+          "explicit_font_pts": [
+            12.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "11",
+          "name": "文本框 10",
+          "text": "Silicon\ndioxide",
+          "transform_emu": {
+            "off": {
+              "x": 3392802,
+              "y": 2850723
+            },
+            "ext": {
+              "cx": 744114,
+              "cy": 448905
+            }
+          },
+          "explicit_font_pts": [
+            10.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "12",
+          "name": "文本框 11",
+          "text": "Lithium\nniobate",
+          "transform_emu": {
+            "off": {
+              "x": 2702687,
+              "y": 2850723
+            },
+            "ext": {
+              "cx": 766557,
+              "cy": 448905
+            }
+          },
+          "explicit_font_pts": [
+            10.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "13",
+          "name": "文本框 12",
+          "text": "Silicon",
+          "transform_emu": {
+            "off": {
+              "x": 4060475,
+              "y": 2850723
+            },
+            "ext": {
+              "cx": 700833,
+              "cy": 264240
+            }
+          },
+          "explicit_font_pts": [
+            10.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "14",
+          "name": "箭头: 右 13",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 879894,
+              "y": 2513897
+            },
+            "ext": {
+              "cx": 750073,
+              "cy": 228544
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "15",
+          "name": "文本框 14",
+          "text": "Continuous\nWave laser in",
+          "transform_emu": {
+            "off": {
+              "x": 619395,
+              "y": 2754748
+            },
+            "ext": {
+              "cx": 1178528,
+              "cy": 448905
+            }
+          },
+          "explicit_font_pts": [
+            10.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "16",
+          "name": "文本框 15",
+          "text": "Modulated\nLight out",
+          "transform_emu": {
+            "off": {
+              "x": 624056,
+              "y": 1608423
+            },
+            "ext": {
+              "cx": 981359,
+              "cy": 448905
+            }
+          },
+          "explicit_font_pts": [
+            10.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "17",
+          "name": "文本框 16",
+          "text": "Electric\nSignal in",
+          "transform_emu": {
+            "off": {
+              "x": 928308,
+              "y": 1079693
+            },
+            "ext": {
+              "cx": 841897,
+              "cy": 448905
+            }
+          },
+          "explicit_font_pts": [
+            10.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "18",
+          "name": "文本框 17",
+          "text": "Gold electrode source",
+          "transform_emu": {
+            "off": {
+              "x": 2463668,
+              "y": 999377
+            },
+            "ext": {
+              "cx": 2104487,
+              "cy": 298672
+            }
+          },
+          "explicit_font_pts": [
+            12.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "19",
+          "name": "直接箭头连接符 18",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2368262,
+              "y": 1128005
+            },
+            "ext": {
+              "cx": 0,
+              "cy": 625929
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "20",
+          "name": "直接连接符 19",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2380167,
+              "y": 1139910
+            },
+            "ext": {
+              "cx": 136340,
+              "cy": 0
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "21",
+          "name": "标题 1024",
+          "text": "图片标注",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "27",
+          "name": "组合 26",
+          "text": "点能隙拓扑\n在复平面上形成闭环\n非互易耦合\n一维非厄米趋肤效应",
+          "transform_emu": {
+            "off": {
+              "x": 5383687,
+              "y": 955768
+            },
+            "ext": {
+              "cx": 3606517,
+              "cy": 1666026
+            },
+            "chOff": {
+              "x": 4840145,
+              "y": 2362545
+            },
+            "chExt": {
+              "cx": 3606517,
+              "cy": 1666026
+            }
+          },
+          "explicit_font_pts": [
+            16.0,
+            20.0
+          ],
+          "image_rids": [
+            "rId3"
+          ],
+          "children": [
+            {
+              "kind": "pic",
+              "id": "22",
+              "name": "Picture 10",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 4840145,
+                  "y": 2362545
+                },
+                "ext": {
+                  "cx": 1219343,
+                  "cy": 1666026
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [
+                "rId3"
+              ],
+              "children": []
+            },
+            {
+              "kind": "cxnSp",
+              "id": "23",
+              "name": "直接连接符 22",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 5302099,
+                  "y": 2748545
+                },
+                "ext": {
+                  "cx": 994249,
+                  "cy": 435374
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "cxnSp",
+              "id": "24",
+              "name": "直接连接符 23",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 5449816,
+                  "y": 3452487
+                },
+                "ext": {
+                  "cx": 846532,
+                  "cy": 239865
+                }
+              },
+              "explicit_font_pts": [],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "25",
+              "name": "文本框 24",
+              "text": "点能隙拓扑\n在复平面上形成闭环",
+              "transform_emu": {
+                "off": {
+                  "x": 6343751,
+                  "y": 2381329
+                },
+                "ext": {
+                  "cx": 2102911,
+                  "cy": 736740
+                }
+              },
+              "explicit_font_pts": [
+                16.0,
+                20.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "26",
+              "name": "文本框 25",
+              "text": "非互易耦合\n一维非厄米趋肤效应",
+              "transform_emu": {
+                "off": {
+                  "x": 6343751,
+                  "y": 3296266
+                },
+                "ext": {
+                  "cx": 2102911,
+                  "cy": 699807
+                }
+              },
+              "explicit_font_pts": [
+                16.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image25.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image24.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-09.png"
+    },
+    {
+      "page": 10,
+      "slide_id": "264",
+      "slide_part": "ppt/slides/slide10.xml",
+      "slide_xml_sha256": "065638e58e2fbe40e37e697aa995cd9ec38fa53fb11a97b720f1a69c876384a0",
+      "text": [
+        "整体逻辑",
+        "存在问题",
+        "忆阻器件的",
+        "材料选择和优化",
+        "是实现高性能神经形态计算的关键",
+        "关键点",
+        "人工",
+        "智能",
+        "人工智能与高速电路实验室的研究涉及到",
+        "人工智能芯片的发展",
+        "研究方向",
+        "新型铁基非常规多铁材料设计与磁电调控研究方向"
+      ],
+      "shapes": [
+        {
+          "kind": "grpSp",
+          "id": "4",
+          "name": "组合 3",
+          "text": "\n",
+          "transform_emu": {
+            "off": {
+              "x": 666600,
+              "y": 1267565
+            },
+            "ext": {
+              "cx": 268088,
+              "cy": 308692
+            },
+            "chOff": {
+              "x": 444411,
+              "y": 3470663
+            },
+            "chExt": {
+              "cx": 219308,
+              "cy": 252525
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "5",
+              "name": "任意多边形: 形状 4",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 498241,
+                  "y": 3416834
+                },
+                "ext": {
+                  "cx": 111649,
+                  "cy": 219307
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "6",
+              "name": "任意多边形: 形状 5",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 464855,
+                  "y": 3524324
+                },
+                "ext": {
+                  "cx": 178420,
+                  "cy": 219307
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "标题 1024",
+          "text": "整体逻辑",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "8",
+          "name": "组合 7",
+          "text": "\n",
+          "transform_emu": {
+            "off": {
+              "x": 1213508,
+              "y": 1267565
+            },
+            "ext": {
+              "cx": 268088,
+              "cy": 308692
+            },
+            "chOff": {
+              "x": 444411,
+              "y": 3470663
+            },
+            "chExt": {
+              "cx": 219308,
+              "cy": 252525
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "9",
+              "name": "任意多边形: 形状 8",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 498241,
+                  "y": 3416834
+                },
+                "ext": {
+                  "cx": 111649,
+                  "cy": 219307
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "10",
+              "name": "任意多边形: 形状 9",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 464855,
+                  "y": 3524324
+                },
+                "ext": {
+                  "cx": 178420,
+                  "cy": 219307
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "sp",
+          "id": "11",
+          "name": "箭头: 下 10",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 611694,
+              "y": 1874866
+            },
+            "ext": {
+              "cx": 342172,
+              "cy": 292286
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "12",
+          "name": "直接连接符 11",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 714539,
+              "y": 2842718
+            },
+            "ext": {
+              "cx": 6447371,
+              "cy": 0
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "13",
+          "name": "箭头: 右 12",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 9615115,
+              "y": 2109096
+            },
+            "ext": {
+              "cx": 3900090,
+              "cy": 175398
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "14",
+          "name": "矩形: 对角圆角 13",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 714539,
+              "y": 3201293
+            },
+            "ext": {
+              "cx": 1431925,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "15",
+          "name": "文本框 14",
+          "text": "存在问题",
+          "transform_emu": {
+            "off": {
+              "x": 714539,
+              "y": 3197294
+            },
+            "ext": {
+              "cx": 1431925,
+              "cy": 378565
+            }
+          },
+          "explicit_font_pts": [
+            18.0,
+            28.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "16",
+          "name": "直接连接符 15",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 736885,
+              "y": 3578915
+            },
+            "ext": {
+              "cx": 9073258,
+              "cy": 0
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "17",
+          "name": "矩形: 圆角 16",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 155961,
+              "y": 3825385
+            },
+            "ext": {
+              "cx": 11216363,
+              "cy": 773228
+            }
+          },
+          "explicit_font_pts": [
+            13.5,
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "18",
+          "name": "文本框 17",
+          "text": "忆阻器件的材料选择和优化是实现高性能神经形态计算的关键",
+          "transform_emu": {
+            "off": {
+              "x": 1431833,
+              "y": 3950389
+            },
+            "ext": {
+              "cx": 9879628,
+              "cy": 523220
+            }
+          },
+          "explicit_font_pts": [
+            28.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "19",
+          "name": "矩形: 圆顶角 18",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 316463,
+              "y": 3675208
+            },
+            "ext": {
+              "cx": 766424,
+              "cy": 1073584
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "20",
+          "name": "文本框 19",
+          "text": "关键点",
+          "transform_emu": {
+            "off": {
+              "x": 238010,
+              "y": 4027333
+            },
+            "ext": {
+              "cx": 923330,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "21",
+          "name": "矩形: 圆角 20",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 317257,
+              "y": 4862623
+            },
+            "ext": {
+              "cx": 1164340,
+              "cy": 891407
+            }
+          },
+          "explicit_font_pts": [
+            13.5,
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "22",
+          "name": "文本框 29",
+          "text": "人工\n智能",
+          "transform_emu": {
+            "off": {
+              "x": 591651,
+              "y": 4912737
+            },
+            "ext": {
+              "cx": 615553,
+              "cy": 791179
+            }
+          },
+          "explicit_font_pts": [
+            14.0,
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "23",
+          "name": "矩形: 圆角 22",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 1481596,
+              "y": 4862623
+            },
+            "ext": {
+              "cx": 4371273,
+              "cy": 891407
+            }
+          },
+          "explicit_font_pts": [
+            13.5,
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "24",
+          "name": "文本框 31",
+          "text": "人工智能与高速电路实验室的研究涉及到人工智能芯片的发展",
+          "transform_emu": {
+            "off": {
+              "x": 1772304,
+              "y": 4951754
+            },
+            "ext": {
+              "cx": 3821143,
+              "cy": 713144
+            }
+          },
+          "explicit_font_pts": [
+            14.0,
+            16.0,
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "25",
+          "name": "等腰三角形 24",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 1454515,
+              "y": 5275411
+            },
+            "ext": {
+              "cx": 132588,
+              "cy": 65830
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "26",
+          "name": "箭头: 燕尾形 25",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 1077722,
+              "y": 1895435
+            },
+            "ext": {
+              "cx": 475770,
+              "cy": 308534
+            }
+          },
+          "explicit_font_pts": [
+            18.0,
+            26.8
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "27",
+          "name": "组合 26",
+          "text": "\n",
+          "transform_emu": {
+            "off": {
+              "x": 1617399,
+              "y": 1272103
+            },
+            "ext": {
+              "cx": 245432,
+              "cy": 282604
+            },
+            "chOff": {
+              "x": 444411,
+              "y": 3470663
+            },
+            "chExt": {
+              "cx": 219308,
+              "cy": 252525
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "28",
+              "name": "任意多边形: 形状 27",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 498241,
+                  "y": 3416834
+                },
+                "ext": {
+                  "cx": 111649,
+                  "cy": 219307
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "29",
+              "name": "任意多边形: 形状 28",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 464855,
+                  "y": 3524324
+                },
+                "ext": {
+                  "cx": 178420,
+                  "cy": 219307
+                }
+              },
+              "explicit_font_pts": [
+                18.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "sp",
+          "id": "33",
+          "name": "矩形: 圆角 32",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 591651,
+              "y": 6023170
+            },
+            "ext": {
+              "cx": 7796419,
+              "cy": 417465
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "34",
+          "name": "矩形: 圆角 33",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 366812,
+              "y": 6023170
+            },
+            "ext": {
+              "cx": 1496536,
+              "cy": 417465
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "35",
+          "name": "文本框 34",
+          "text": "研究方向",
+          "transform_emu": {
+            "off": {
+              "x": 509786,
+              "y": 6031847
+            },
+            "ext": {
+              "cx": 1210588,
+              "cy": 400110
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "36",
+          "name": "文本框 35",
+          "text": "新型铁基非常规多铁材料设计与磁电调控研究方向",
+          "transform_emu": {
+            "off": {
+              "x": 2260285,
+              "y": 6048095
+            },
+            "ext": {
+              "cx": 5827236,
+              "cy": 400110
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "37",
+          "name": "组合 36",
+          "text": "\n\n",
+          "transform_emu": {
+            "off": {
+              "x": 591651,
+              "y": 908844
+            },
+            "ext": {
+              "cx": 461330,
+              "cy": 218246
+            },
+            "chOff": {
+              "x": 4767220,
+              "y": 1633898
+            },
+            "chExt": {
+              "cx": 553490,
+              "cy": 261847
+            }
+          },
+          "explicit_font_pts": [
+            12.0,
+            24.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "38",
+              "name": "箭头: V 形 37",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 5095580,
+                  "y": 1633898
+                },
+                "ext": {
+                  "cx": 225130,
+                  "cy": 261847
+                }
+              },
+              "explicit_font_pts": [
+                24.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "39",
+              "name": "箭头: V 形 38",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 4931400,
+                  "y": 1633898
+                },
+                "ext": {
+                  "cx": 225130,
+                  "cy": 261847
+                }
+              },
+              "explicit_font_pts": [
+                24.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "40",
+              "name": "箭头: V 形 39",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 4767220,
+                  "y": 1633898
+                },
+                "ext": {
+                  "cx": 225130,
+                  "cy": 261847
+                }
+              },
+              "explicit_font_pts": [
+                12.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "sp",
+          "id": "41",
+          "name": "箭头: 右 40",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 1434841,
+              "y": 1889012
+            },
+            "ext": {
+              "cx": 674925,
+              "cy": 377235
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "2",
+          "name": "箭头: 右 1",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2146464,
+              "y": 1069283
+            },
+            "ext": {
+              "cx": 684769,
+              "cy": 1130148
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "3",
+          "name": "淘宝店铺-想搞设计(校园PPT每学期更新)",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 932969,
+              "y": 3561375
+            },
+            "ext": {
+              "cx": 11709573,
+              "cy": 322839
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "grpSp",
+          "id": "30",
+          "name": "组合 7",
+          "text": "\n\n\n\n\n",
+          "transform_emu": {
+            "off": {
+              "x": 3719407,
+              "y": 1077574
+            },
+            "ext": {
+              "cx": 437633,
+              "cy": 1058957
+            },
+            "chOff": {
+              "x": 2908301,
+              "y": 2745440
+            },
+            "chExt": {
+              "cx": 918948,
+              "cy": 1616506
+            }
+          },
+          "explicit_font_pts": [
+            14.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "31",
+              "name": "Freeform 4",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 2908301,
+                  "y": 2745440
+                },
+                "ext": {
+                  "cx": 690289,
+                  "cy": 683166
+                }
+              },
+              "explicit_font_pts": [
+                14.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "32",
+              "name": "Freeform 5",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 2908301,
+                  "y": 3678780
+                },
+                "ext": {
+                  "cx": 690289,
+                  "cy": 683166
+                }
+              },
+              "explicit_font_pts": [
+                14.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "42",
+              "name": "Line 6",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 3529561,
+                  "y": 3274653
+                },
+                "ext": {
+                  "cx": 69029,
+                  "cy": 153953
+                }
+              },
+              "explicit_font_pts": [
+                14.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "43",
+              "name": "Line 7",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 3529561,
+                  "y": 3274653
+                },
+                "ext": {
+                  "cx": 297688,
+                  "cy": 280644
+                }
+              },
+              "explicit_font_pts": [
+                14.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "44",
+              "name": "Line 8",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 3529561,
+                  "y": 3678780
+                },
+                "ext": {
+                  "cx": 69029,
+                  "cy": 153953
+                }
+              },
+              "explicit_font_pts": [
+                14.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "45",
+              "name": "Line 9",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 3529561,
+                  "y": 3553693
+                },
+                "ext": {
+                  "cx": 297688,
+                  "cy": 279040
+                }
+              },
+              "explicit_font_pts": [
+                14.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "tags",
+          "target": "ppt/tags/tag3.xml",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "tags",
+          "target": "ppt/tags/tag2.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-10.png"
+    },
+    {
+      "page": 11,
+      "slide_id": "270",
+      "slide_part": "ppt/slides/slide11.xml",
+      "slide_xml_sha256": "ee16bfc66948be29396e2d1851858db504ecc7865ab22ec711ee3278301a3901",
+      "text": [
+        "整体逻辑",
+        "新机制探索",
+        "神经网络构建",
+        "神经形态计算",
+        "新材料探索",
+        "2024.03",
+        "研究启动",
+        "2024.05",
+        "文献梳理",
+        "2024.08",
+        "方法确定",
+        "2024.11",
+        "结果呈现"
+      ],
+      "shapes": [
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "标题 1024",
+          "text": "整体逻辑",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "2",
+          "name": "箭头: 五边形 1",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 482123,
+              "y": 1061600
+            },
+            "ext": {
+              "cx": 11227754,
+              "cy": 2607043
+            }
+          },
+          "explicit_font_pts": [
+            13.5,
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "3",
+          "name": "箭头: 下 2",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 4826447,
+              "y": -577865
+            },
+            "ext": {
+              "cx": 286019,
+              "cy": 8495247
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "27",
+          "name": "图片 26",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 623290,
+              "y": 1255614
+            },
+            "ext": {
+              "cx": 2245959,
+              "cy": 1901188
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId15"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "28",
+          "name": "矩形: 圆顶角 27",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 611483,
+              "y": 3435289
+            },
+            "ext": {
+              "cx": 2345772,
+              "cy": 468939
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "29",
+          "name": "文本框 28",
+          "text": "新机制探索",
+          "transform_emu": {
+            "off": {
+              "x": 1014928,
+              "y": 3485092
+            },
+            "ext": {
+              "cx": 1538883,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "30",
+          "name": "图片 29",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 3207586,
+              "y": 1255614
+            },
+            "ext": {
+              "cx": 2245959,
+              "cy": 1901188
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId16"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "31",
+          "name": "矩形: 圆顶角 30",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 3195779,
+              "y": 3435289
+            },
+            "ext": {
+              "cx": 2345772,
+              "cy": 468939
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "32",
+          "name": "文本框 31",
+          "text": "神经网络构建",
+          "transform_emu": {
+            "off": {
+              "x": 3445336,
+              "y": 3485092
+            },
+            "ext": {
+              "cx": 1846659,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "33",
+          "name": "图片 32",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5780075,
+              "y": 1255614
+            },
+            "ext": {
+              "cx": 3039389,
+              "cy": 1896289
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId17"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "34",
+          "name": "矩形: 圆顶角 33",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 6164983,
+              "y": 3435289
+            },
+            "ext": {
+              "cx": 2345772,
+              "cy": 468939
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "35",
+          "name": "文本框 34",
+          "text": "神经形态计算",
+          "transform_emu": {
+            "off": {
+              "x": 6414540,
+              "y": 3485092
+            },
+            "ext": {
+              "cx": 1846659,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "36",
+          "name": "图片 35",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 9057988,
+              "y": 1255613
+            },
+            "ext": {
+              "cx": 2587753,
+              "cy": 1896289
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId17"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "37",
+          "name": "矩形: 圆顶角 36",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 9217078,
+              "y": 3435289
+            },
+            "ext": {
+              "cx": 2345772,
+              "cy": 468939
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "38",
+          "name": "文本框 37",
+          "text": "新材料探索",
+          "transform_emu": {
+            "off": {
+              "x": 9620523,
+              "y": 3485092
+            },
+            "ext": {
+              "cx": 1538883,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "cxnSp",
+          "id": "39",
+          "name": "幻云PPT-演示军团1",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 482123,
+              "y": 4660736
+            },
+            "ext": {
+              "cx": 11217274,
+              "cy": 0
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "40",
+          "name": "幻云PPT-演示军团2",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 1769368,
+              "y": 4606361
+            },
+            "ext": {
+              "cx": 108751,
+              "cy": 108751
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "41",
+          "name": "幻云PPT-演示军团25",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 4612051,
+              "y": 4606361
+            },
+            "ext": {
+              "cx": 108751,
+              "cy": 108751
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "42",
+          "name": "幻云PPT-演示军团26",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 7454734,
+              "y": 4606361
+            },
+            "ext": {
+              "cx": 108751,
+              "cy": 108751
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "43",
+          "name": "幻云PPT-演示军团27",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 10297418,
+              "y": 4606361
+            },
+            "ext": {
+              "cx": 108751,
+              "cy": 108751
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "44",
+          "name": "幻云PPT-演示军团53",
+          "text": "2024.03",
+          "transform_emu": {
+            "off": {
+              "x": 1354865,
+              "y": 4279073
+            },
+            "ext": {
+              "cx": 937757,
+              "cy": 326949
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "45",
+          "name": "幻云PPT-演示军团54",
+          "text": "研究启动",
+          "transform_emu": {
+            "off": {
+              "x": 1387726,
+              "y": 4718275
+            },
+            "ext": {
+              "cx": 872034,
+              "cy": 326371
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "46",
+          "name": "幻云PPT-演示军团55",
+          "text": "2024.05",
+          "transform_emu": {
+            "off": {
+              "x": 4197548,
+              "y": 4279073
+            },
+            "ext": {
+              "cx": 937757,
+              "cy": 326949
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "47",
+          "name": "幻云PPT-演示军团56",
+          "text": "文献梳理",
+          "transform_emu": {
+            "off": {
+              "x": 4230410,
+              "y": 4718275
+            },
+            "ext": {
+              "cx": 872034,
+              "cy": 326371
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "48",
+          "name": "幻云PPT-演示军团57",
+          "text": "2024.08",
+          "transform_emu": {
+            "off": {
+              "x": 7040231,
+              "y": 4279073
+            },
+            "ext": {
+              "cx": 937757,
+              "cy": 326949
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "49",
+          "name": "幻云PPT-演示军团58",
+          "text": "方法确定",
+          "transform_emu": {
+            "off": {
+              "x": 7073092,
+              "y": 4718275
+            },
+            "ext": {
+              "cx": 872034,
+              "cy": 326371
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "50",
+          "name": "幻云PPT-演示军团59",
+          "text": "2024.11",
+          "transform_emu": {
+            "off": {
+              "x": 9882915,
+              "y": 4279073
+            },
+            "ext": {
+              "cx": 937757,
+              "cy": 326949
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "51",
+          "name": "幻云PPT-演示军团60",
+          "text": "结果呈现",
+          "transform_emu": {
+            "off": {
+              "x": 9915776,
+              "y": 4718275
+            },
+            "ext": {
+              "cx": 872034,
+              "cy": 326371
+            }
+          },
+          "explicit_font_pts": [
+            16.0
+          ],
+          "image_rids": [],
+          "children": []
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId8",
+          "type": "tags",
+          "target": "ppt/tags/tag11.xml",
+          "external": false
+        },
+        {
+          "id": "rId13",
+          "type": "tags",
+          "target": "ppt/tags/tag16.xml",
+          "external": false
+        },
+        {
+          "id": "rId3",
+          "type": "tags",
+          "target": "ppt/tags/tag6.xml",
+          "external": false
+        },
+        {
+          "id": "rId7",
+          "type": "tags",
+          "target": "ppt/tags/tag10.xml",
+          "external": false
+        },
+        {
+          "id": "rId12",
+          "type": "tags",
+          "target": "ppt/tags/tag15.xml",
+          "external": false
+        },
+        {
+          "id": "rId17",
+          "type": "image",
+          "target": "ppt/media/image28.png",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "tags",
+          "target": "ppt/tags/tag5.xml",
+          "external": false
+        },
+        {
+          "id": "rId16",
+          "type": "image",
+          "target": "ppt/media/image27.jpeg",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "tags",
+          "target": "ppt/tags/tag4.xml",
+          "external": false
+        },
+        {
+          "id": "rId6",
+          "type": "tags",
+          "target": "ppt/tags/tag9.xml",
+          "external": false
+        },
+        {
+          "id": "rId11",
+          "type": "tags",
+          "target": "ppt/tags/tag14.xml",
+          "external": false
+        },
+        {
+          "id": "rId5",
+          "type": "tags",
+          "target": "ppt/tags/tag8.xml",
+          "external": false
+        },
+        {
+          "id": "rId15",
+          "type": "image",
+          "target": "ppt/media/image26.png",
+          "external": false
+        },
+        {
+          "id": "rId10",
+          "type": "tags",
+          "target": "ppt/tags/tag13.xml",
+          "external": false
+        },
+        {
+          "id": "rId4",
+          "type": "tags",
+          "target": "ppt/tags/tag7.xml",
+          "external": false
+        },
+        {
+          "id": "rId9",
+          "type": "tags",
+          "target": "ppt/tags/tag12.xml",
+          "external": false
+        },
+        {
+          "id": "rId14",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-11.png"
+    },
+    {
+      "page": 12,
+      "slide_id": "266",
+      "slide_part": "ppt/slides/slide12.xml",
+      "slide_xml_sha256": "6cdd974702b4f7261af0109dc8cf547ceeb01a44a5f2ca1f117657b31bef8534",
+      "text": [
+        "厘米级别的地理精度",
+        "列举",
+        "10^9^",
+        "开关比",
+        "115 ",
+        "fJ",
+        "开态功耗",
+        "85 ",
+        "ps",
+        "开关速度",
+        "10^12^",
+        "耐擦写次数",
+        "忆阻器件的特性",
+        "有助于提升脑机接口的性能",
+        "动态物体的高精度识别",
+        "98.1%",
+        "跨模态感知柔性忆阻神经元",
+        "成本效益",
+        "实际应用需要考虑经济性和成本效益",
+        "高性能光催化材料的",
+        "制备成本、能耗和维护成本可能影响其商业化前景"
+      ],
+      "shapes": [
+        {
+          "kind": "grpSp",
+          "id": "4",
+          "name": "组合 3",
+          "text": "\n厘米级别的地理精度",
+          "transform_emu": {
+            "off": {
+              "x": 408830,
+              "y": 1016056
+            },
+            "ext": {
+              "cx": 2859090,
+              "cy": 387004
+            },
+            "chOff": {
+              "x": 676399,
+              "y": 2499724
+            },
+            "chExt": {
+              "cx": 1463698,
+              "cy": 387004
+            }
+          },
+          "explicit_font_pts": [
+            16.0,
+            28.0
+          ],
+          "image_rids": [],
+          "children": [
+            {
+              "kind": "sp",
+              "id": "5",
+              "name": "矩形: 圆角 4",
+              "text": "",
+              "transform_emu": {
+                "off": {
+                  "x": 676399,
+                  "y": 2520890
+                },
+                "ext": {
+                  "cx": 1463698,
+                  "cy": 365838
+                }
+              },
+              "explicit_font_pts": [
+                16.0
+              ],
+              "image_rids": [],
+              "children": []
+            },
+            {
+              "kind": "sp",
+              "id": "6",
+              "name": "文本框 5",
+              "text": "厘米级别的地理精度",
+              "transform_emu": {
+                "off": {
+                  "x": 697544,
+                  "y": 2499724
+                },
+                "ext": {
+                  "cx": 1442553,
+                  "cy": 376642
+                }
+              },
+              "explicit_font_pts": [
+                16.0,
+                28.0
+              ],
+              "image_rids": [],
+              "children": []
+            }
+          ]
+        },
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "标题 1024",
+          "text": "列举",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "9",
+          "name": "箭头: 五边形 8",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 1527051
+            },
+            "ext": {
+              "cx": 4586514,
+              "cy": 3803897
+            }
+          },
+          "explicit_font_pts": [
+            13.5,
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "10",
+          "name": "矩形: 圆角 9",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 633540,
+              "y": 2873844
+            },
+            "ext": {
+              "cx": 1860983,
+              "cy": 1097247
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "11",
+          "name": "文本框 10",
+          "text": "10^9^\n开关比",
+          "transform_emu": {
+            "off": {
+              "x": 958897,
+              "y": 3006969
+            },
+            "ext": {
+              "cx": 1210268,
+              "cy": 830997
+            }
+          },
+          "explicit_font_pts": [
+            32.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "12",
+          "name": "矩形: 圆角 11",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2735127,
+              "y": 2873844
+            },
+            "ext": {
+              "cx": 1860983,
+              "cy": 1097247
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "13",
+          "name": "文本框 12",
+          "text": "115 fJ\n开态功耗",
+          "transform_emu": {
+            "off": {
+              "x": 3063690,
+              "y": 3006969
+            },
+            "ext": {
+              "cx": 1203856,
+              "cy": 830997
+            }
+          },
+          "explicit_font_pts": [
+            32.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "14",
+          "name": "矩形: 圆角 13",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 633540,
+              "y": 4131106
+            },
+            "ext": {
+              "cx": 1860983,
+              "cy": 1097247
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "15",
+          "name": "文本框 14",
+          "text": "85 ps\n开关速度",
+          "transform_emu": {
+            "off": {
+              "x": 1042478,
+              "y": 4264231
+            },
+            "ext": {
+              "cx": 1043106,
+              "cy": 830997
+            }
+          },
+          "explicit_font_pts": [
+            32.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "16",
+          "name": "矩形: 圆角 15",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 2735127,
+              "y": 4131106
+            },
+            "ext": {
+              "cx": 1860983,
+              "cy": 1097247
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "17",
+          "name": "文本框 16",
+          "text": "10^12^\n耐擦写次数",
+          "transform_emu": {
+            "off": {
+              "x": 2939458,
+              "y": 4264391
+            },
+            "ext": {
+              "cx": 1452321,
+              "cy": 830677
+            }
+          },
+          "explicit_font_pts": [
+            32.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "18",
+          "name": "矩形: 圆角 17",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 633540,
+              "y": 2146390
+            },
+            "ext": {
+              "cx": 3962570,
+              "cy": 567439
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "19",
+          "name": "文本框 18",
+          "text": "忆阻器件的特性",
+          "transform_emu": {
+            "off": {
+              "x": 1445274,
+              "y": 2199277
+            },
+            "ext": {
+              "cx": 2339102,
+              "cy": 461665
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "20",
+          "name": "文本框 19",
+          "text": "有助于提升脑机接口的性能",
+          "transform_emu": {
+            "off": {
+              "x": 768166,
+              "y": 1646408
+            },
+            "ext": {
+              "cx": 3693319,
+              "cy": 369332
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "21",
+          "name": "矩形: 圆角 20",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5233439,
+              "y": 1527051
+            },
+            "ext": {
+              "cx": 4610350,
+              "cy": 1546363
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "22",
+          "name": "文本框 21",
+          "text": "动态物体的高精度识别",
+          "transform_emu": {
+            "off": {
+              "x": 6384452,
+              "y": 2731099
+            },
+            "ext": {
+              "cx": 2308324,
+              "cy": 276999
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "23",
+          "name": "文本框 22",
+          "text": "98.1%",
+          "transform_emu": {
+            "off": {
+              "x": 6911840,
+              "y": 2178363
+            },
+            "ext": {
+              "cx": 1253548,
+              "cy": 492443
+            }
+          },
+          "explicit_font_pts": [
+            32.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "24",
+          "name": "矩形: 圆角 23",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5233439,
+              "y": 1532269
+            },
+            "ext": {
+              "cx": 4610350,
+              "cy": 510786
+            }
+          },
+          "explicit_font_pts": [
+            13.5
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "25",
+          "name": "文本框 24",
+          "text": "跨模态感知柔性忆阻神经元",
+          "transform_emu": {
+            "off": {
+              "x": 5907398,
+              "y": 1587607
+            },
+            "ext": {
+              "cx": 3262433,
+              "cy": 400110
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "26",
+          "name": "矩形: 圆角 25",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5233439,
+              "y": 3561019
+            },
+            "ext": {
+              "cx": 5491166,
+              "cy": 1764712
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "27",
+          "name": "矩形: 单圆角 26",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 5233433,
+              "y": 3377328
+            },
+            "ext": {
+              "cx": 1788961,
+              "cy": 460129
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "28",
+          "name": "文本框 27",
+          "text": "成本效益",
+          "transform_emu": {
+            "off": {
+              "x": 5374860,
+              "y": 3377328
+            },
+            "ext": {
+              "cx": 1415772,
+              "cy": 461665
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "29",
+          "name": "文本框 28",
+          "text": "实际应用需要考虑经济性和成本效益\n高性能光催化材料的制备成本、能耗和维护成本可能影响其商业化前景",
+          "transform_emu": {
+            "off": {
+              "x": 5412196,
+              "y": 3966820
+            },
+            "ext": {
+              "cx": 5184452,
+              "cy": 1175130
+            }
+          },
+          "explicit_font_pts": [
+            20.0
+          ],
+          "image_rids": [],
+          "children": []
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-12.png"
+    },
+    {
+      "page": 13,
+      "slide_id": "258",
+      "slide_part": "ppt/slides/slide13.xml",
+      "slide_xml_sha256": "1dc973d4b9473ba25237612b603d12040146544f64642caa2f2cb708f3d9705d",
+      "text": [
+        "PINN",
+        "内蕴超分辨",
+        "PINN",
+        "对时间和位置的",
+        "无网格设计",
+        "使其",
+        "内禀",
+        "地具备超分辨能力",
+        "[1]",
+        "物理场升维重建",
+        "在",
+        "AIV",
+        "的基础上，基于",
+        "二维",
+        "图像信息的有限物理约束推断",
+        "三维",
+        "血液流动场",
+        "[2]",
+        "PINN",
+        "具备",
+        "超分辨物理场重构",
+        "能力，但未应用于",
+        "孔隙尺度两相流",
+        "研究",
+        "文献归纳"
+      ],
+      "shapes": [
+        {
+          "kind": "pic",
+          "id": "4",
+          "name": "图片 3",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 6333748,
+              "y": 1311614
+            },
+            "ext": {
+              "cx": 5156248,
+              "cy": 1956390
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId2"
+          ],
+          "children": []
+        },
+        {
+          "kind": "pic",
+          "id": "5",
+          "name": "图片 4",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 6347782,
+              "y": 4044311
+            },
+            "ext": {
+              "cx": 5409168,
+              "cy": 1734779
+            }
+          },
+          "explicit_font_pts": [],
+          "image_rids": [
+            "rId3"
+          ],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "6",
+          "name": "TextBox 103",
+          "text": "PINN内蕴超分辨\n\nPINN对时间和位置的无网格设计使其内禀地具备超分辨能力[1]",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 1497668
+            },
+            "ext": {
+              "cx": 5898202,
+              "cy": 1569660
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "7",
+          "name": "TextBox 103",
+          "text": "物理场升维重建\n\n在AIV的基础上，基于二维图像信息的有限物理约束推断三维血液流动场[2]",
+          "transform_emu": {
+            "off": {
+              "x": 346555,
+              "y": 4155700
+            },
+            "ext": {
+              "cx": 6096322,
+              "cy": 1569660
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "8",
+          "name": "矩形 7",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 251460,
+              "y": 1150619
+            },
+            "ext": {
+              "cx": 11618971,
+              "cy": 2278381
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "9",
+          "name": "矩形 8",
+          "text": "",
+          "transform_emu": {
+            "off": {
+              "x": 251460,
+              "y": 3772510
+            },
+            "ext": {
+              "cx": 11618971,
+              "cy": 2278381
+            }
+          },
+          "explicit_font_pts": [
+            18.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "10",
+          "name": "矩形 9",
+          "text": "PINN具备超分辨物理场重构能力，但未应用于孔隙尺度两相流研究",
+          "transform_emu": {
+            "off": {
+              "x": 1227222,
+              "y": 3334553
+            },
+            "ext": {
+              "cx": 9737556,
+              "cy": 553922
+            }
+          },
+          "explicit_font_pts": [
+            24.0
+          ],
+          "image_rids": [],
+          "children": []
+        },
+        {
+          "kind": "sp",
+          "id": "11",
+          "name": "标题 1024",
+          "text": "文献归纳",
+          "transform_emu": {
+            "off": {
+              "x": 321568,
+              "y": 246750
+            },
+            "ext": {
+              "cx": 11548864,
+              "cy": 576064
+            }
+          },
+          "explicit_font_pts": [
+            36.0
+          ],
+          "image_rids": [],
+          "children": []
+        }
+      ],
+      "relationships": [
+        {
+          "id": "rId3",
+          "type": "image",
+          "target": "ppt/media/image30.png",
+          "external": false
+        },
+        {
+          "id": "rId2",
+          "type": "image",
+          "target": "ppt/media/image29.png",
+          "external": false
+        },
+        {
+          "id": "rId1",
+          "type": "slideLayout",
+          "target": "ppt/slideLayouts/slideLayout2.xml",
+          "external": false
+        }
+      ],
+      "preview": "previews/page-13.png"
+    }
+  ],
+  "canvas_inches": [
+    13.333333333333334,
+    7.5
+  ]
+}
