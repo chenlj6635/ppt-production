@@ -18,12 +18,15 @@ $Pptx = (Resolve-Path -LiteralPath $Pptx).Path
 if (-not $OutDir) { $OutDir = Join-Path (Split-Path -Parent $Pptx) 'render' }
 if (-not (Test-Path -LiteralPath $OutDir)) { New-Item -ItemType Directory -Path $OutDir | Out-Null }
 $OutDir = [IO.Path]::GetFullPath($OutDir)
+if ($OutDir.TrimEnd('\','/') -eq (Split-Path -Parent $Pptx).TrimEnd('\','/')) { throw '输出目录必须与源文件目录不同。' }
+if ($Dpi -le 0 -or @($Pages | Where-Object { $_ -le 0 }).Count -gt 0) { throw 'Dpi 和页号必须为正数。' }
 
 $pdf = Join-Path $OutDir ([IO.Path]::GetFileNameWithoutExtension($Pptx) + '.pdf')
 if (Test-Path -LiteralPath $pdf) { Remove-Item -LiteralPath $pdf -Force }
 
 function Convert-With-Com($progId) {
   $app = New-Object -ComObject $progId
+  $pres = $null
   try {
     $app.Visible = $true
     if ($progId -eq 'PowerPoint.Application') {
@@ -32,9 +35,11 @@ function Convert-With-Com($progId) {
       $pres = $app.Presentations.Open($Pptx)
     }
     $pres.SaveAs($pdf, 32)   # 32 = PDF
-    $pres.Close()
   } finally {
-    $app.Quit()
+    if ($pres) {
+      $pres.Close()
+      [void][Runtime.InteropServices.Marshal]::ReleaseComObject($pres)
+    }
     [void][Runtime.InteropServices.Marshal]::ReleaseComObject($app)
   }
 }
@@ -47,6 +52,7 @@ function Convert-With-Soffice {
   }
   if (-not $exe) { throw '找不到 soffice，请安装 LibreOffice 或改用 -Engine auto。' }
   & $exe --headless --norestore --convert-to pdf --outdir $OutDir $Pptx | Out-Host
+  if ($LASTEXITCODE -ne 0) { throw "soffice 退出码 $LASTEXITCODE。" }
   $produced = Join-Path $OutDir ([IO.Path]::GetFileNameWithoutExtension($Pptx) + '.pdf')
   if ($produced -ne $pdf -and (Test-Path -LiteralPath $produced)) { Move-Item -LiteralPath $produced -Destination $pdf -Force }
 }
@@ -65,7 +71,7 @@ foreach ($prog in $order) {
 if (-not $used -and $Engine -in @('auto','soffice')) {
   Convert-With-Soffice; $used = 'soffice'
 }
-if (-not $used) { throw '无法导出 PDF：所选引擎均失败。不要改用 文件→导出 的 GUI；可装 LibreOffice 后传 -Engine soffice。' }
+if (-not $used) { throw '无法导出 PDF：所选引擎均失败。按当前环境检查权限或采用可验证的演示软件导出入口。' }
 if (-not (Test-Path -LiteralPath $pdf)) { throw "导出报告成功但未生成 PDF：$pdf" }
 Write-Host "PDF 已生成（$used）：$pdf  $((Get-Item -LiteralPath $pdf).Length) B"
 
@@ -81,15 +87,25 @@ $candidates += @('/usr/bin/pdftoppm','/usr/local/bin/pdftoppm','/opt/homebrew/bi
 $tool = $candidates | Where-Object { $_ -and (Test-Path -LiteralPath $_) } | Select-Object -First 1
 if (-not $tool) { throw '找不到 pdftoppm。安装 poppler 后用 -Pdftoppm 指定完整路径。' }
 
-Get-ChildItem -LiteralPath $OutDir -Filter '*.png' | Remove-Item -Force
-$prefix = Join-Path $OutDir 'page'
+$prefixName = [IO.Path]::GetFileNameWithoutExtension($Pptx) + '-page'
+$prefix = Join-Path $OutDir $prefixName
+$previous = @(Get-ChildItem -LiteralPath $OutDir -File | Where-Object { $_.Name -match ('^' + [regex]::Escape($prefixName) + '-(\d+)\.png$') })
+foreach ($image in $previous) {
+  [void]($image.Name -match ('^' + [regex]::Escape($prefixName) + '-(\d+)\.png$'))
+  if (-not $Pages -or $Pages -contains [int]$Matches[1]) { Remove-Item -LiteralPath $image.FullName -Force }
+}
 if ($Pages -and $Pages.Count -gt 0) {
-  foreach ($n in $Pages) { & $tool -png -r $Dpi -f $n -l $n $pdf $prefix }
+  foreach ($n in $Pages) {
+    & $tool -png -r $Dpi -f $n -l $n $pdf $prefix
+    if ($LASTEXITCODE -ne 0) { throw "pdftoppm 在第 $n 页失败：$LASTEXITCODE。" }
+  }
 } else {
   & $tool -png -r $Dpi $pdf $prefix
 }
 if ($LASTEXITCODE -ne 0) { throw "pdftoppm 退出码 $LASTEXITCODE。" }
-$made = Get-ChildItem -LiteralPath $OutDir -Filter '*.png' | Sort-Object Name
+$made = Get-ChildItem -LiteralPath $OutDir -File | Where-Object {
+  $_.Name -match ('^' + [regex]::Escape($prefixName) + '-(\d+)\.png$') -and (-not $Pages -or $Pages -contains [int]$Matches[1])
+} | Sort-Object Name
 if (-not $made) { throw '栅格化未产出 PNG。' }
 Write-Host ("渲染页： " + (($made | ForEach-Object { $_.Name }) -join ', '))
 Write-Host "输出目录：$OutDir"

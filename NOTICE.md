@@ -8,6 +8,8 @@
 - `tests/`
 - `.github/workflows/ci.yml`
 
+`skills/ppt-production/assets/engines/` 中的原生转换工具子集来自 Hugo He 的 PPT Master，按原作者 MIT 许可提供并保留署名；具体提交、适用范围和完整许可证见 `skills/ppt-production/THIRD_PARTY_NOTICES.md`。第三方实现不声明为本项目原创。
+
 MIT 许可证不适用于 `skills/ppt-production/assets/library/` 中的素材集合及其派生索引、预览图和图库展示。这些内容包括用户收集的优秀 PPT 结构素材，以及第三方科研图片、图表、截图和文字摘录。仓库未核实这些素材的全部原始出处或再分发许可，也不将其声明为仓库作者原创。
 
 上述素材仅供在本仓库中公开查看、研究结构和方法，不得默认视为已获得再分发、发布或商业使用授权。如需将素材用于发布、再分发或商业用途，应核对并遵守原始来源的许可范围，必要时取得权利人授权。

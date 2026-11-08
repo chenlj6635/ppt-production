@@ -40,7 +40,7 @@
 - `scripts/check_library.py`、`scripts/index_library.py`、`scripts/render_catalog.py`：素材库一致性检查、索引重建与图库渲染。
 
 ```powershell
-pwsh -NoProfile -File skills/ppt-production/scripts/render_deck.ps1 -Pptx .\deck.pptx -Pages 3,8
+& .\skills\ppt-production\scripts\render_deck.ps1 -Pptx .\deck.pptx -Pages 3,8
 python skills/ppt-production/scripts/pptx_audit.py .\deck.pptx --min-pt 20
 ```
 
@@ -80,11 +80,18 @@ Copy-Item -LiteralPath '.\skills\ppt-production' -Destination $target -Recurse
 ## 工具与依赖
 
 
-只读取技能和素材不需要 Python。运行审计需要 Python 3.10+ 和 python-pptx；原生素材提取、图库生成与一致性检查只依赖 Python 标准库。
+只读取技能和素材不需要 Python。执行工具使用 Python 3.10+；`requirements.txt` 包含原生 PPTX、资料提取和嵌入图表数据需要的依赖。素材索引、图库生成与一致性检查仅依赖 Python 标准库。
+
+同一个 `ppt-production` 入口现在覆盖资料提取、内容策划、项目设计规范、页面制作、静态检查和渲染验收。使用说明见 [全流程](skills/ppt-production/references/production-workflow.md)、[原生对象制作](skills/ppt-production/references/native-authoring.md) 和 [模板复用维度](skills/ppt-production/references/template-layers.md)。项目风格约束持续生效，不继承转换引擎的设计主题。
+
+原生路径支持受支持的 SVG 转可编辑 DrawingML 形状、本地 LaTeX 转 Office Math，以及柱形/条形/折线数据图表和矩阵表格。SVG/OMML 后端取自固定提交的 PPT Master，随技能携带，不额外安装另一个技能；作者与许可见 [第三方实现说明](skills/ppt-production/THIRD_PARTY_NOTICES.md)。这不代表兼容任意 SVG、TeX 宏包或上游全部功能。
 
 
 ```sh
 python -m pip install -r requirements.txt
+python skills/ppt-production/scripts/source_intake.py report.pdf --out work/sources
+python skills/ppt-production/scripts/native_export.py check work --report work/check.json
+python skills/ppt-production/scripts/native_export.py export work --output work/deck-v1.pptx
 python skills/ppt-production/scripts/pptx_audit.py your-deck.pptx --min-pt 20
 python skills/ppt-production/scripts/check_library.py skills/ppt-production/assets/library
 python skills/ppt-production/scripts/render_catalog.py skills/ppt-production/assets/library
